@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pdonnie/42/n3/push swap/push_swap.h
+stdlib.h
+-
+unistd.h
+-
+stdio.h
+-
+
+/Users/pdonnie/42/n3/push swap/search_mid_and_split.c
+push_swap.h
+/Users/pdonnie/42/n3/push swap/push_swap.h
+

@@ -1,0 +1,3 @@
+/Users/pdonnie/42/n3/push swap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pdonnie/42/n3/push swap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pdonnie/42/n3/push swap/cmake-build-debug/CMakeFiles/untitled.dir
